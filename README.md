@@ -14,3 +14,12 @@ MONGO_URI = Your_MONGO_URL
 
 SECRET=YOUR_SECRET_KEY
 
+
+Automatically creates admin user
+
+
+Email: admin@gmail.com
+
+
+Password: 123456
+
