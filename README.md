@@ -9,10 +9,11 @@ Backend Express application : todo-server
 .env file to be set with variable for backend application
 
 
-MONGO_URI = Your_MONGO_URL
+MONGO_URI=mongodb+srv://raison:ZlCKU7wYvX20nXnP@cluster0.mfcc26y.mongodb.net/todo?retryWrites=true&w=majority
 
 
-SECRET=YOUR_SECRET_KEY
+
+SECRET=123
 
 
 Automatically creates admin user
